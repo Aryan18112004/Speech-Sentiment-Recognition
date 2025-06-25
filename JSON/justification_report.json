@@ -1,0 +1,1 @@
+{"disgust": {"accuracy": "50.00%", "reason": "Persistent low performance despite augmentation and class balancing", "samples_removed": 109}, "happy": {"accuracy": "60.32%", "reason": "Persistent low performance despite augmentation and class balancing", "samples_removed": 317}}
