@@ -26,7 +26,7 @@ This end-to-end pipeline classifies emotions from speech audio using advanced au
 | Per-class Accuracy  | >75%       |
 
 ### Confusion Matrix:
-![Confusion Matrix](https://pplx-res.cloudinary.com/image/private/user_uploads/56874662/7a49682d-0316-4566-95c1-eed9334d2706/confusion_matrix.jpg)
+![Confusion Matrix](https://github.com/Aryan18112004/Speech-Sentiment-Recognition/blob/main/Results/confusion_matrix.png)
 
 
 ---
